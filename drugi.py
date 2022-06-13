@@ -2,5 +2,4 @@
 
 print("z drugiego")
 
-print("jojo
-      ")
+print("jojo")
